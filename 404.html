@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>404 — Projet non trouvé</title>
+  <meta name="robots" content="noindex" />
+  <style>
+    :root { --bg:#0b0b0c; --fg:#e7e7ea; --muted:#9a9aa1; }
+    html,body{height:100%}
+    body{
+      margin:0; background:var(--bg); color:var(--fg);
+      display:flex; align-items:center; justify-content:center;
+      font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Arial, sans-serif;
+    }
+    main{ text-align:center; padding:2rem; }
+    h1{ font-size:8rem; margin:0; letter-spacing:.05em }
+    h2{ margin:.25rem 0 1rem; font-weight:600 }
+    p{ color:var(--muted); margin:.5rem 0 0 }
+    .rule{ width:6rem; height:1px; background:#2a2a2f; margin:1rem auto 0 }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#fafafa; --fg:#111; --muted:#555; }
+      .rule{ background:#ddd; }
+    }
+  </style>
+</head>
+<body>
+  <main role="main" aria-label="Page introuvable">
+    <h1>404</h1>
+    <h2>Projet non trouvé</h2>
+    <div class="rule" aria-hidden="true"></div>
+    <p>L’éducation repose sur la confiance.<br>
+       Quand elle existe, les projets prennent tout leur sens.</p>
+  </main>
+</body>
+</html>
