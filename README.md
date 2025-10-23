@@ -115,10 +115,10 @@ L’indépendance intellectuelle et la conviction personnelle sont la vraie forc
 **Croire, tenir, transmettre.**
 
 
-### Le projet IA 2.0 appliquée à la Computer Vision
+### Le projet IA 2.0 appliquée à la Computer Vision - 🔒
 
 
-### Le projet IA 2.0 appliquée à l' Edge AI
+### Le projet IA 2.0 appliquée à l' Edge AI - 🔒
 
 
 
