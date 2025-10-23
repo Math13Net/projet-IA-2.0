@@ -6,7 +6,7 @@
     <img src="./edge_AI.png"
          alt="Edge AI"
          loading="lazy"
-         width="500"
+         width="300"
          class="hero-img">
   </a>
 </p>
