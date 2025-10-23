@@ -4,19 +4,34 @@
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.** - **Un projet libre, exigeant, et profondément humain.** - **L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
 
 #### 🧭 Synthèse Projet IA 2.0
-| Élément | Phrase clé |  
-|----------|-------------|  
-| **Mission** | Democratize AI – L’IA pour tous |  
-| **Mantra** | Change the World with AI |  
-| **Saut de courbe** | Teach differently with technology |  
-| **Qualité** | Deep • Intelligent • Complete • Empowering • Elegant |  
-| **Esprit** | Don’t worry, be crappy |  
-| **Ouverture** | Let hundred flowers blossom |  
-| **Positionnement** | Polarize people |  
-| **Résilience** | Churn, baby, churn |  
-| **Niche** | Low cost, high value |  
-| **Pitch** | 10 slides, 20 min, police 30 |  
-| **Conviction** | Don’t let the bozos grind you down |  
+
+<table>
+  <thead>
+    <tr>
+      <th>Élément</th>
+      <th>Phrase clé</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Mission</b></td><td>Democratize AI – L’IA pour tous</td></tr>
+    <tr><td><b>Mantra</b></td><td>Change the World with AI</td></tr>
+    <tr><td><b>Saut de courbe</b></td><td>Teach differently with technology</td></tr>
+    <tr><td><b>Qualité</b></td><td>Deep • Intelligent • Complete • Empowering • Elegant</td></tr>
+    <tr><td><b>Esprit</b></td><td>Don’t worry, be crappy</td></tr>
+    <tr><td><b>Ouverture</b></td><td>Let hundred flowers blossom</td></tr>
+    <tr><td><b>Positionnement</b></td><td>Polarize people</td></tr>
+    <tr><td><b>Résilience</b></td><td>Churn, baby, churn</td></tr>
+    <tr><td><b>Niche</b></td><td>Low cost, high value</td></tr>
+    <tr><td><b>Pitch</b></td><td>10 slides, 20 min, police 30</td></tr>
+    <tr><td><b>Conviction</b></td><td>Don’t let the bozos grind you down</td></tr>
+  </tbody>
+</table>
+
+<style>
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #d0d7de; padding: 8px 10px; vertical-align: top; }
+th { background: #f6f8fa; text-align: left; }
+</style>
 
 [You 're right !](https://youtu.be/VNGFep6rncY?si=nYJm1ob12RWcnMFv) - [Innovation ! ](https://youtu.be/Mtjatz9r-Vc?si=qMR0apdlt54by1X4) - [Valley of Death !](https://youtu.be/QLuqXctU_IQ?si=lBmejYNtvQyk0PhJ)  
 
@@ -87,11 +102,8 @@ Basé sur l’ingéniosité, la pédagogie et l’open hardware.
 Ne pas se laisser impressionner par les sceptiques, les hiérarchies ou les “experts”.  
 **Croire, tenir, transmettre.**
 
+---
 
 ### Le projet IA 2.0 appliquée à la Computer Vision - 🔒
 
-
 ### Le projet IA 2.0 appliquée à l' Edge AI - 🔒
-
-
-
