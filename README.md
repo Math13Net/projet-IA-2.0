@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.raspberrypi.org/computers">
-    <img alt="Edge Ai" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/edge_AI.png">
+    <img alt="Edge AI" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/edge_AI.png">
   </a>
 </p>
 
