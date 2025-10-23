@@ -122,10 +122,10 @@ Pas un produit figé, mais une idée en mouvement.
 ---
 
 
-### Computer Vision
+### Le projet 2.0 appliquée à la Computer Vision
 
 
-### Edge AI
+### Le projet 2.0 appliquée à l' Edge AI
 
 
 
