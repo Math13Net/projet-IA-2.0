@@ -95,19 +95,19 @@ L’indépendance intellectuelle et la conviction personnelle sont la vraie forc
 ---
 
 #### ✳️ En résumé
-| Élément | Phrase clé |
-|----------|-------------|
-| **Mission** | Democratize AI – L’IA pour tous |
-| **Mantra** | Change the World with AI |
-| **Saut de courbe** | Teach differently with technology |
-| **Qualité** | Deep • Intelligent • Complete • Empowering • Elegant |
-| **Esprit** | Don’t worry, be crappy |
-| **Ouverture** | Let hundred flowers blossom |
-| **Positionnement** | Polarize people |
-| **Résilience** | Churn, baby, churn |
-| **Niche** | Low cost, high value |
-| **Pitch** | 10 slides, 20 min, police 30 |
-| **Conviction** | Don’t let the bozos grind you down |
+| Élément | Phrase clé |  
+|----------|-------------|  
+| **Mission** | Democratize AI – L’IA pour tous |  
+| **Mantra** | Change the World with AI |  
+| **Saut de courbe** | Teach differently with technology |  
+| **Qualité** | Deep • Intelligent • Complete • Empowering • Elegant |  
+| **Esprit** | Don’t worry, be crappy |  
+| **Ouverture** | Let hundred flowers blossom |  
+| **Positionnement** | Polarize people |  
+| **Résilience** | Churn, baby, churn |  
+| **Niche** | Low cost, high value |  
+| **Pitch** | 10 slides, 20 min, police 30 |  
+| **Conviction** | Don’t let the bozos grind you down |  
 
 ---
 
