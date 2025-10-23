@@ -70,7 +70,7 @@ Toujours plus clair, plus libre, plus cohérent.
 
 ---
 
-#### 🎯 9. Niche : *Low Cost – High Value*
+#### 🎯 9. Niche : *Low Cost – High Value* (my weaknesss my strenght)
 Un projet IA sans budget, sans heures sup, sans matériel.  
 Basé sur l’ingéniosité, la pédagogie et l’open hardware.  
 **Zéro euro, zéro contrainte, 100 % impact.**
