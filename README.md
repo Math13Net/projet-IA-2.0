@@ -1,5 +1,11 @@
 # projet-IA-2.0
 
+<p align="center">
+  <a href="https://www.raspberrypi.org/computers">
+    <img alt="Edge Ai" src="https://github.com/Math13Net/projet-IA-2.0/blob/main/edge_AI.png">
+  </a>
+</p>
+
 #### ✳️ Slogan Projet IA 2.0
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.** - **Un projet libre, exigeant, et profondément humain.** - **L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
 
