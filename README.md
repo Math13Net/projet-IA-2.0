@@ -22,7 +22,7 @@
     <tr><td><b>Positionnement</b></td><td>Polarize people</td></tr>
     <tr><td><b>Résilience</b></td><td>Churn, baby, churn</td></tr>
     <tr><td><b>Niche</b></td><td>Low cost, high value</td></tr>
-    <tr><td><b>Pitch</b></td><td>10 slides, 20 min, police 30</td></tr>
+    <tr><td><b>Pitch</b></td><td>10 slides, 20 min, 30 idées</td></tr>
     <tr><td><b>Conviction</b></td><td>Don’t let the bozos grind you down</td></tr>
   </tbody>
 </table>
