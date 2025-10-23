@@ -1,16 +1,25 @@
 # projet-IA-2.0
 
 <p align="center">
-<figure style="text-align:center;">
   <a href="https://www.raspberrypi.org/computers">
+    <!-- Image locale : affichage OK sur GitHub + GitHub Pages -->
     <img src="./edge_AI.png"
          alt="Edge AI"
          loading="lazy"
-         width="550"      <!-- ← ajuste ce nombre pour modifier la taille -->
-         style="max-width:100%; height:auto;">
+         width="500"
+         class="hero-img">
   </a>
-</figure>
 </p>
+
+<style>
+/* Style global de l'image */
+.hero-img {
+  max-width: 100%;     /* ne dépasse jamais la largeur du conteneur */
+  height: auto;        /* garde les proportions */
+  border-radius: 8px;  /* coins arrondis (optionnel) */
+  box-shadow: 0 0 10px rgba(0,0,0,0.15); /* effet léger (optionnel) */
+}
+</style>
 
 #### ✳️ Slogan Projet IA 2.0
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.** - **Un projet libre, exigeant, et profondément humain.** - **L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
@@ -46,6 +55,8 @@ th { background: #f6f8fa; text-align: left; }
 </style>
 
 [You 're right !](https://youtu.be/VNGFep6rncY?si=nYJm1ob12RWcnMFv) - [Innovation ! ](https://youtu.be/Mtjatz9r-Vc?si=qMR0apdlt54by1X4) - [Valley of Death !](https://youtu.be/QLuqXctU_IQ?si=lBmejYNtvQyk0PhJ)  
+
+---
 
 ### 🌍 Projet IA 2.0 — Vision et philosophie
 
@@ -99,7 +110,7 @@ Continuer, évoluer, réinventer. Toujours plus clair, plus libre, plus cohéren
 
 ---
 
-#### 🎯 9. Niche : *Low Cost – High Value* (my weaknesss my strenght)
+#### 🎯 9. Niche : *Low Cost – High Value* (my weakness my strength)
 Basé sur l’ingéniosité, la pédagogie et l’open hardware.  
 **Zéro euro, zéro contrainte, 100 % impact.**
 
@@ -116,6 +127,5 @@ Ne pas se laisser impressionner par les sceptiques, les hiérarchies ou les “e
 
 ---
 
-### Le projet IA 2.0 appliquée à la Computer Vision - 🔒
-
-### Le projet IA 2.0 appliquée à l' Edge AI - 🔒
+### Le projet IA 2.0 appliqué à la Computer Vision - 🔒  
+### Le projet IA 2.0 appliqué à l'Edge AI - 🔒
