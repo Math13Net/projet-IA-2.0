@@ -1,11 +1,11 @@
 # projet-IA-2.0
 
-### ✳️ Slogan Projet IA 2.0
+#### ✳️ Slogan Projet IA 2.0
 **Démocratiser l’IA par l’enseignement, la créativité et le plaisir d’apprendre.**  
 **Un projet libre, exigeant, et profondément humain.**  
 **L’éducation repose sur la confiance. Quand elle existe, les projets prennent tout leur sens.**  
 
-### 🧭 Synthèse Projet IA 2.0
+#### 🧭 Synthèse Projet IA 2.0
 | Élément | Phrase clé |  
 |----------|-------------|  
 | **Mission** | Democratize AI – L’IA pour tous |  
