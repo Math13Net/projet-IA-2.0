@@ -1,12 +1,15 @@
 # projet-IA-2.0
 
 <p align="center">
+<figure style="text-align:center;">
   <a href="https://www.raspberrypi.org/computers">
-    <img src="https://github.com/Math13Net/projet-IA-2.0/blob/main/edge_AI.png"
+    <img src="./edge_AI.png"
          alt="Edge AI"
-         width="500"
-         loading="lazy">
+         loading="lazy"
+         width="550"      <!-- ← ajuste ce nombre pour modifier la taille -->
+         style="max-width:100%; height:auto;">
   </a>
+</figure>
 </p>
 
 #### ✳️ Slogan Projet IA 2.0
