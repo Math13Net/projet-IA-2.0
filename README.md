@@ -126,5 +126,5 @@ Ne pas se laisser impressionner par les sceptiques, les hiérarchies ou les “e
 **Croire, tenir, transmettre.**
 
 ---
-### [Le projet IA 2.0 appliqué à la Computer Vision - 🔒](https://github.com/Math13Net/opencv)  
-### [Le projet IA 2.0 appliqué à l'Edge AI - 🔒](https://github.com/Math13Net/raspberry_pi)
+### [Le projet IA 2.0 appliqué à la Computer Vision](https://github.com/Math13Net/opencv)  
+### [Le projet IA 2.0 appliqué à l'Edge AI](https://github.com/Math13Net/raspberry_pi)
