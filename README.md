@@ -1,5 +1,4 @@
-# projet-IA-2.0 :
-["try to affect change" and "where can we take the customer"](https://youtu.be/XcG6CpxKFnU?si=-qn0ReynMpsKm27W) -> my vision for our students  
+### ["try to affect change" and "where can we take the customer"](https://youtu.be/XcG6CpxKFnU?si=-qn0ReynMpsKm27W) -> my vision for our students  
 
 <p align="center">
   <a href="https://www.raspberrypi.org/computers">
